@@ -3,6 +3,7 @@ public class GitHub {
         System.out.println("GitHub");
                 System.out.println("1. degisiklikGitHub");
 
+                System.out.println("1. degisiklikGitHub");
 
     }
 }
